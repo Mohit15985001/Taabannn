@@ -73,15 +73,15 @@
 <!--         <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/> -->
 <!--         <img src="https://img.shields.io/badge/-LaTEX-05122A?style=flat&logo=latex"/> -->
       </li>
-      <li>
-        <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
+<!--       <li> -->
+<!--         <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/> -->
 <!--         <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
         <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/> -->
-      </li>
-      <li>
+<!--       </li> -->
+<!--       <li> -->
 <!--         <img src="https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab"/> -->
 <!--         <img src="https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave"/>   -->
-      </li>
+<!--       </li> -->
       <li>
         <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
         <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
@@ -113,23 +113,23 @@
       <h2><b>How to Reach Me</b></h2>
       <br>
       <p>Open to Collaboration 
-        <br>if you need further information or help.
+        <br>Connect With me.
       </p>
       <br>
       <a href="https://www.instagram.com/taabannn/" target="_blank">
-      <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      <img align="center" alt="Mohit Nathwani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
       </a> &nbsp;&nbsp;
-      <a href="mailto:taabansoleymani@gmail.com" >
-      <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      <a href="mailto:nathwanimohit15@gmail.com" >
+      <img align="center" alt="Mohit Nathwani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
       <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
-      <img align="center" alt="Taban Soleymani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
+      <img align="center" alt="Mohit Nathwani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
       </a> &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/TabanSoleymani/" >
-      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      <img align="center" alt="Mohit Nathwani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
       <a href="https://www.pinterest.com/tabansly78/" >
-      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/pinterest.png" />
+      <img align="center" alt="Mohit Nathwani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/pinterest.png" />
       </a> &nbsp;&nbsp;
       <br>
     </div>
