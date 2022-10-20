@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-## I'm Mohit Nathwani
+## I'm Taban Soleymani
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
 <!---
 <p align="center">
-  <a href="https://github.com/Mohit15985001">
+  <a href="https://github.com/Taabannn">
     <kbd><img height="200em" width="200em" src="images/me.svg" alt="me"/></kbd>
   </a>
 </p>
@@ -16,15 +16,15 @@
       <br>
       <blockquote>
         <p> 
-          I majored in Computer Science 
+          I majored in electrical engineering (Thesis Title: "Designing
           <br>
-          Former SDE intern at ConnectWise
+          IoT Network Simulator Based on MQTT Protocol"), and my 
           <br>
-          BLockchain Enthusiast, Etherum, Solidity.
+          research is focused on edge-caching in IoT networks. 
           <br>
-          Hands on experience with Salesforce.com and SalesforceAdmin
+          Currently, learning python, and here I share my hands-on  
           <br>
-          
+          and course project repositories.
         </p>
       </blockquote>
        <ul>
@@ -138,4 +138,3 @@
 Taabannn/Taabannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
