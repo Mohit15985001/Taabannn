@@ -29,7 +29,7 @@
       </blockquote>
        <ul>
         <li>🎓 &nbsp; BE in computer Science at <a href="http://www.pccoepune.com/">PCCOE Pune</a></li>
-        <li>📚 &nbsp; Working on BlockChain Development and Solidity <a href="https://ut.ac.ir/en">UT</a></li>
+        <li>📚 &nbsp; Working on BlockChain Development and Solidity</li>
         <li>👩‍💻 &nbsp; Junior Java Developer </li>
         <li>🤔 &nbsp; Interested in Web3</li>
        </ul>
@@ -37,7 +37,7 @@
     </td>
     <td width="45%">
      <p align="center">
-      <a href="https://github.com/Taabannn">
+      <a href="https://github.com/Mohit15985001">
        <img src="images/java-python-developer.png"/>
       </a>
      </p>
