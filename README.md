@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
 <!---
 <p align="center">
-  <a href="https://github.com/Taabannn">
+  <a href="https://github.com/Mohit15985001">
     <kbd><img height="200em" width="200em" src="images/me.svg" alt="me"/></kbd>
   </a>
 </p>
@@ -16,15 +16,15 @@
       <br>
       <blockquote>
         <p> 
-          I majored in electrical engineering (Thesis Title: "Designing
+          I majored in Computer Science 
           <br>
-          IoT Network Simulator Based on MQTT Protocol"), and my 
+          Former SDE intern at ConnectWise
           <br>
-          research is focused on edge-caching in IoT networks. 
+          BLockchain Enthusiast, Etherum, Solidity.
           <br>
-          Currently, learning python, and here I share my hands-on  
+          Hands on experience with Salesforce.com and SalesforceAdmin
           <br>
-          and course project repositories.
+          
         </p>
       </blockquote>
        <ul>
