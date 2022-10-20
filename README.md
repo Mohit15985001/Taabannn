@@ -22,9 +22,9 @@
           <br>
           BLockchain Enthusiast, Etherum, Solidity.
           <br>
-          Hands on experience with Salesforce.com and SalesforceAdmin
+          Hands on experience with Salesforce.com 
           <br>
-          
+          and SalesforceAdmin
         </p>
       </blockquote>
        <ul>
