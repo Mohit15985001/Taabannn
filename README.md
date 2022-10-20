@@ -38,7 +38,7 @@
     <td width="45%">
      <p align="center">
       <a href="https://github.com/Mohit15985001">
-       <img src="images/java-python-developer.png"/>
+       <img src="images/eth.png"/>
       </a>
      </p>
     </td>
