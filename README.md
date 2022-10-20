@@ -131,7 +131,7 @@
       <img align="center" alt="Mohit Nathwani | LinkedIn" width="30em" src="https://img.icons8.com/ios-filled/50/22C3E6/linkedin-circled--v1.png" />
       </a> &nbsp;&nbsp;
       <a href="https://www.pinterest.com/tabansly78/" >
-      <img align="center" alt="Mohit Nathwani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/pinterest.png" />
+      <img align="center" alt="Mohit Nathwani | LinkedIn" width="30em" src="https://img.icons8.com/pastel-glyph/64/22C3E6/whatsapp--v2.png" />
       </a> &nbsp;&nbsp;
       <br>
     </div>
