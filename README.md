@@ -116,7 +116,7 @@
         <br>Connect With me.
       </p>
       <br>
-      <a href="https://www.instagram.com/taabannn/" target="_blank">
+      <a href="https://www.instagram.com/mohit_nathwani/" target="_blank">
 <!--       <img align="center" alt="Mohit Nathwani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" /> -->
 <!--         <img src="https://img.icons8.com/ios/50/22C3E6/instagram-new--v1.png"/> -->
         <img align="center" alt="Mohit Nathwani | Instagram" width="30em" src="https://img.icons8.com/ios/50/22C3E6/instagram-new--v1.png"/>
@@ -124,10 +124,10 @@
       <a href="mailto:nathwanimohit15@gmail.com" >
       <img align="center" alt="Mohit Nathwani | Gmail" width="30em" src="https://img.icons8.com/ios-filled/50/22C3E6/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
+      <a href="https://twitter.com/nathwani_mohit" >
       <img align="center" alt="Mohit Nathwani | Twitter" width="30em" src="https://img.icons8.com/ios-filled/50/22C3E6/twitter.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/TabanSoleymani/" >
+      <a href="https://www.linkedin.com/in/mohit-nathwani-425214191/" >
       <img align="center" alt="Mohit Nathwani | LinkedIn" width="30em" src="https://img.icons8.com/ios-filled/50/22C3E6/linkedin-circled--v1.png" />
       </a> &nbsp;&nbsp;
       <a href="https://www.pinterest.com/tabansly78/" >
