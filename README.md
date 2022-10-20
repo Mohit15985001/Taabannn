@@ -75,22 +75,22 @@
       </li>
       <li>
         <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
-        <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
-        <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/>
+<!--         <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django"/>
+        <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"/> -->
       </li>
       <li>
-        <img src="https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab"/>
-        <img src="https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave"/>  
+<!--         <img src="https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab"/> -->
+<!--         <img src="https://img.shields.io/badge/-Octave-05122A?style=flat&logo=octave"/>   -->
       </li>
       <li>
         <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
         <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
         <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
         <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
-        <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
+<!--         <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/> -->
       </li>
       <li>
-        <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>
+<!--         <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/> -->
         <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
         <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
         <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
@@ -101,7 +101,7 @@
       </li>
       <li>
         <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
-        <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm"/>
+<!--         <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm"/> -->
         <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
         <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter"/>
         <img src="https://img.shields.io/badge/-Google Colab-05122A?style=flat&logo=googlecolab"/>
@@ -112,7 +112,7 @@
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>
-      <p>Please don't hesitate to contact me 
+      <p>Open to Collaboration 
         <br>if you need further information or help.
       </p>
       <br>
