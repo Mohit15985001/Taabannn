@@ -128,7 +128,7 @@
       <img align="center" alt="Mohit Nathwani | Twitter" width="30em" src="https://img.icons8.com/ios-filled/50/22C3E6/twitter.png" />
       </a> &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/TabanSoleymani/" >
-      <img align="center" alt="Mohit Nathwani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      <img align="center" alt="Mohit Nathwani | LinkedIn" width="30em" src="https://img.icons8.com/ios-filled/50/22C3E6/linkedin-circled--v1.png" />
       </a> &nbsp;&nbsp;
       <a href="https://www.pinterest.com/tabansly78/" >
       <img align="center" alt="Mohit Nathwani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/pinterest.png" />
