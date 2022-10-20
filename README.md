@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Mohit Nathwani
-![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
+<!-- ![](https://komarev.com/ghpvc/?username=your-Mohit15985001&color=0069b4) -->
 <!---
 <p align="center">
   <a href="https://github.com/Mohit15985001">
@@ -62,13 +62,16 @@
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <ul>
       <li>
-        <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
-        <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
+<!--         <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/> -->
+<!--         <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/> -->
         <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
-        <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-        <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"/>
-        <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
-        <img src="https://img.shields.io/badge/-LaTEX-05122A?style=flat&logo=latex"/>
+        <img src="https://img.shields.io/badge/-BlockChain-05122A?style=flat"/>
+        <img src="https://img.shields.io/badge/-Solidity-05122A?style=flat"/>
+        <img src="https://img.shields.io/badge/-Ethereum-05122A?style=flat"/>
+        <img src="https://img.shields.io/badge/-SalesForce-05122A?style=flat"/>
+<!--         <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"/> -->
+<!--         <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/> -->
+<!--         <img src="https://img.shields.io/badge/-LaTEX-05122A?style=flat&logo=latex"/> -->
       </li>
       <li>
         <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
